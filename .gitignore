@@ -1,0 +1,8 @@
+# Virtual environment
+venv/
+.env/
+*.env
+
+# GraphML and compressed text files
+*.graphml
+*.txt.gz
