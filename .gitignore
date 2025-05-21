@@ -6,6 +6,7 @@ venv/
 # GraphML and compressed text files
 *.graphml
 *.txt.gz
+*.png
 
 #ignore files under data
 data/
